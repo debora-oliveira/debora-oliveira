@@ -19,6 +19,8 @@
 <!--  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) -->
 
 # 💻 :books: My profiles
-[Meu perfil](https://www.dio.me/users/debora_oliveira_dev) na plataforma de estudos [Digital Innovation One](https://www.dio.me).<br/>
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/debora_oliveira_dev)
 
 <a href="https://www.linkedin.com/in/debora-oliveira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+
