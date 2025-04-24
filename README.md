@@ -1,6 +1,6 @@
 # 👋 Olá, Eu sou a Débora Oliveira!
 👩🏻‍💻 Sou desenvolvedora de software.<br/>
-👩🏻‍🎓 Formada em Análise e Desenvolvimento de Sistemas pelas [FATEC](https://www.cps.sp.gov.br/fatecs/fatec-zona-leste/).
+👩🏻‍🎓 Formada em Análise e Desenvolvimento de Sistemas pela [FATEC](https://www.cps.sp.gov.br/fatecs/fatec-zona-leste/).
 
 
 # 💻 Tech Stack
